@@ -1,0 +1,10 @@
+{
+  "name": "minimal-amm-dex-core",
+  "version": "1.0.0",
+  "description": "Minimal AMM DEX for ERC20 pairs",
+  "main": "SimpleDEX.sol",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "license": "MIT"
+}
